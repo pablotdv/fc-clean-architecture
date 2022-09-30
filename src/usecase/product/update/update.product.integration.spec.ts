@@ -28,7 +28,7 @@ describe("Test update product use case", () => {
 
         const input = {
             id: "1",
-            name: "Product",
+            name: "Product 2",
             price: 10,
         };
 
